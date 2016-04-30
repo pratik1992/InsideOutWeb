@@ -1,0 +1,8 @@
+.navbar-brand{padding:0px !important;width:100px}
+html, body{height: 100%;}
+body{overflow: hidden;}
+img{width:100%;height: 100% !important;}
+.nav{float: right;padding-right: 50px}
+footer{background-color: #222222;color: #fff;position: fixed;bottom: 0px;width: 100%}
+section{height: 90%;}
+.container-fluid{height: 100%;padding: 0px !important}

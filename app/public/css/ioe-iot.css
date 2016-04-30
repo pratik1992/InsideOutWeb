@@ -1,0 +1,7 @@
+.row{margin: 0px !important;height: 40%;}
+.bgcolor{background-color: #2980b9;color: #ecf0f1}
+.row .carousel-indicators{top:100%;}
+#downloadIot{cursor: pointer;}
+.download-iot{width: 50%;height: 50%;position: absolute;top:25%;left:25%;border: 1px solid #222;background-color: #fff;padding: 2px;display:none;z-index: 15;border-radius: 4px;}
+#close-img-iot{position: absolute;height: 32px !important;width: 32px !important;left:96%;bottom: 94%;background-color:#eee;cursor: pointer; border-radius: 50%}
+.download-iot h3{background-color: #2980b9;color:#ecf0f1 }

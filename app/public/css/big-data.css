@@ -1,0 +1,10 @@
+.row{margin: 0px !important;height: 40%;}
+#myCarousel{height: 60%}
+.carousel-inner{height: 100%;}
+.item{height: 100%;}
+.carousel-caption h1, .carousel-caption p{background-color: #2980b9;opacity: 0.9;color: #ecf0f1}
+.row .carousel-indicators{top:100%;}
+#downloadBd{cursor: pointer;}
+.download-bd{width: 50%;height: 50%;position: absolute;top:25%;left:25%;border: 1px solid #222;background-color: #fff;padding: 2px;display:none;z-index: 15;border-radius: 4px;}
+#close-img-bd{position: absolute;height: 32px !important;width: 32px !important;left:96%;bottom: 94%;background-color:#eee;cursor: pointer; border-radius: 50%}
+.download-bd h3{background-color: #2980b9;color:#ecf0f1 }
